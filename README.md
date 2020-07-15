@@ -1,2 +1,2 @@
 # homeworks
-WinAPI - homeworks
+C++ - homeworks
